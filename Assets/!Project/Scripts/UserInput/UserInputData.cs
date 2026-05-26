@@ -10,6 +10,7 @@ public class UserInputData : MonoBehaviour, IConvertGameObjectToEntity
     public float speed;
 
     public MonoBehaviour shootAction;
+    public MonoBehaviour jerkAction;
     public void Convert(Entity entity, EntityManager dstManager, GameObjectConversionSystem conversionSystem)
     {
         dstManager.AddComponentData<InputData>(entity, new InputData());
@@ -18,6 +19,7 @@ public class UserInputData : MonoBehaviour, IConvertGameObjectToEntity
 
         if (shootAction != null && shootAction is IAbility)
         {
+            print(11);
             dstManager.AddComponentData<ShootData>(entity, new ShootData());
         }
     }
@@ -38,4 +40,5 @@ public struct ShootData : IComponentData
 }
 public struct JerkData : IComponentData
 {
+    public float JerkSpeed;
 }
