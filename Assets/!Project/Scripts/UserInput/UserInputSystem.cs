@@ -36,16 +36,16 @@ public class UserInputSystem : ComponentSystem
 
         _shootAction = new InputAction("shoot", binding: "<Keyboard>/space");
 
-        _shootAction.performed += context => { _shootInput = 1f; };
-        _shootAction.started += context => { _shootInput = 0f; };
-        _shootAction.canceled += context => { _shootInput = 0f; };
+        _shootAction.performed += context => { _shootInput = 0; };
+        _shootAction.started += context => { _shootInput = context.ReadValue<float>(); };
+        _shootAction.canceled += context => { _shootInput = context.ReadValue<float>(); };
         _shootAction.Enable();
 
 
         _jerkAction = new InputAction("jerk", binding: "<Keyboard>/leftCtrl");
-        _jerkAction.performed += context => { _jerkInput = 1f; };
-        _jerkAction.started += context => { _jerkInput = 0f; };
-        _jerkAction.canceled += context => { _jerkInput = 0f; };
+        _jerkAction.performed += context => { _jerkInput = 0; };
+        _jerkAction.started += context => { _jerkInput = context.ReadValue<float>(); };
+        _jerkAction.canceled += context => { _jerkInput = context.ReadValue<float>(); };
         _jerkAction.Enable();
     }
 

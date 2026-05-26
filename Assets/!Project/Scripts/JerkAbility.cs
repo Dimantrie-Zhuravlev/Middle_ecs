@@ -7,6 +7,6 @@ public class JerkAbility : MonoBehaviour, IAbility
 {
     public void Execute()
     {
-        print("Jerk work");
+
     }
 }
