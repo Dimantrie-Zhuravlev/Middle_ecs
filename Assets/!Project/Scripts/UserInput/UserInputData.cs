@@ -10,6 +10,7 @@ public class UserInputData : MonoBehaviour, IConvertGameObjectToEntity
     public float speed;
 
     public MonoBehaviour shootAction;
+    public MonoBehaviour jerkAction;
     public void Convert(Entity entity, EntityManager dstManager, GameObjectConversionSystem conversionSystem)
     {
         dstManager.AddComponentData<InputData>(entity, new InputData());

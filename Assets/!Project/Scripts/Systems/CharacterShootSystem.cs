@@ -15,7 +15,6 @@ public class CharacterShootSystem : ComponentSystem
         {
             if (input.shoot > 0f && inputData.shootAction != null && inputData.shootAction is IAbility ability)
             {
-                Debug.Log(input.shoot);
                 ability.Execute();
             }
         });
