@@ -15,7 +15,6 @@ public class CharacterJerkSystem : ComponentSystem
     {
         Entities.With(_jerkQuery).ForEach((Entity entity, UserInputData inputData, ref InputData input) =>
         {
-            Debug.Log(input.jerk);
             if (input.jerk > 0f && inputData.jerkAction != null && inputData.jerkAction is IAbility ability)
             {
                 ability.Execute();
