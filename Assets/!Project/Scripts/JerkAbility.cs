@@ -8,7 +8,7 @@ using static UnityEditor.PlayerSettings;
 
 public class JerkAbility : MonoBehaviour, IAbility
 {
-    private float bigSpeed = 2f;
+    private float _jerkSpeed = 4f;
     private float animationDuration = 1f;
     private Coroutine jerkAnimation = null;
     public void Execute()
@@ -24,7 +24,7 @@ public class JerkAbility : MonoBehaviour, IAbility
         if (jerkAnimation == null) return;
 
         var pos = transform.position;
-        pos += new Vector3(0, 0, bigSpeed *Time.deltaTime);
+        pos += new Vector3(0, 0, _jerkSpeed * Time.deltaTime);
         transform.position = pos;
     }
 
