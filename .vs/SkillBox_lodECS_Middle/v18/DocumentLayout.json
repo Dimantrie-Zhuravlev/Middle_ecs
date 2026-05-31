@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|d:\\skillboxunity\\skillbox_lodecs_middle\\assets\\!project\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\assets\\!project\\scripts\\components\\interfaces\\iabilitytarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\components\\interfaces\\iabilitytarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|d:\\skillboxunity\\skillbox_lodecs_middle\\assets\\!project\\scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\assets\\!project\\scripts\\components\\characterhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\components\\characterhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\assets\\!project\\scripts\\collisionability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\collisionability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\assets\\!project\\scripts\\components\\applyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\components\\applyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\assets\\!project\\scripts\\components\\applydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\components\\applydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\assets\\!project\\scripts\\components\\systems\\collisionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\components\\systems\\collisionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\assets\\!project\\scripts\\components\\interfaces\\iability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1149B4FD-80F2-5287-8232-2A783F4DC0D7}|Assembly-CSharp.csproj|solutionrelative:assets\\!project\\scripts\\components\\interfaces\\iability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +55,117 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\PlayerStats.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:33:36.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Settings.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\Settings.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Settings.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:33:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplyHealth.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\ApplyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\Components\\ApplyHealth.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\ApplyHealth.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\Components\\ApplyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-31T09:33:35.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAbilityTarget.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbilityTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbilityTarget.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbilityTarget.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbilityTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:33:35.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplyDamage.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\ApplyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\Components\\ApplyDamage.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\ApplyDamage.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\Components\\ApplyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-31T09:33:35.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAbility.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbility.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbility.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbility.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\Components\\Interfaces\\IAbility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-31T09:33:35.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterHealth.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\CharacterHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\Components\\CharacterHealth.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\CharacterHealth.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\Components\\CharacterHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-31T09:33:35.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollisionSystem.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\Systems\\CollisionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\Components\\Systems\\CollisionSystem.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\Components\\Systems\\CollisionSystem.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\Components\\Systems\\CollisionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAVAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-31T09:33:35.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollisionAbility.cs",
+              "DocumentMoniker": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\CollisionAbility.cs",
+              "RelativeDocumentMoniker": "Assets\\!Project\\Scripts\\CollisionAbility.cs",
+              "ToolTip": "D:\\skillBoxUnity\\SkillBox_lodECS_Middle\\Assets\\!Project\\Scripts\\CollisionAbility.cs",
+              "RelativeToolTip": "Assets\\!Project\\Scripts\\CollisionAbility.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCYAAAAPAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-31T09:33:35.733Z"
             }
           ]
         }

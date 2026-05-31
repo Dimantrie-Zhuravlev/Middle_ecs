@@ -4,5 +4,11 @@ using UnityEngine;
 
 public class CharacterHealth : MonoBehaviour
 {
-    public int Health = 100; 
+    public Settings settings;
+    [HideInInspector] public int Health = 100;
+
+    private void Start()
+    {
+        Health = settings.HeroHealth;
+    }
 }

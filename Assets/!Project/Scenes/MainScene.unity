@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 506014463}
   - component: {fileID: 506014462}
   - component: {fileID: 506014461}
-  - component: {fileID: 506014460}
+  - component: {fileID: 506014467}
   m_Layer: 0
   m_Name: Health
   m_TagString: Untagged
@@ -145,19 +145,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &506014460
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 506014459}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc23b2394ddef644993e408f6e7fa15c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Damage: -10
 --- !u!114 &506014461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -172,7 +159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Collider: {fileID: 506014463}
   collisionsActions:
-  - {fileID: 506014460}
+  - {fileID: 506014467}
   collisions: []
 --- !u!114 &506014462
 MonoBehaviour:
@@ -220,7 +207,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 10dd416383fe66842bee8117404cb0e8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -265,6 +252,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &506014467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 506014459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb26c61abf660db49bef7b3e9159eb25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Health: 200
 --- !u!1 &574465880
 GameObject:
   m_ObjectHideFlags: 0
@@ -847,6 +847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2012cde083487b144a4ae28e01af7cb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  settings: {fileID: 11400000, guid: 8401ad14294efb2418441daf07dde37b, type: 2}
   Health: 100
 --- !u!1 &963194225
 GameObject:
